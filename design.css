@@ -1,0 +1,38 @@
+table{
+    border: 2px solid #7f07c4;
+border-collapse: collapse;
+}
+li{
+    font-size: 125%;
+    color: #008e1c;
+}
+th,td{
+    font-size: 125%;
+border: 2px solid #7f07c4;
+border-collapse: collapse;
+    text-align: center;
+    color: #008e1c;
+}
+.bg{
+    background-color: rgba(173, 156, 0, 0.4);
+}
+.headstyle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 200%;
+    color: #007BFF;
+}
+.headstyle2{
+    text-align: left;
+    font-weight: bold;
+    font-size: 150%;
+    color: #007BFF;
+}
+.ptxt{
+    color: #008e1c;
+    font-size: 125%;
+}
+
+body{
+    background-color: gold;
+}
